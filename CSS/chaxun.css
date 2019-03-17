@@ -1,0 +1,88 @@
+div.searchResultDiv {
+	max-width: 1013px;
+	margin: 10px auto;
+	min-height: 300px;
+}
+
+div.productPageDiv {
+	max-width: 1013px;
+	margin: 10px auto;
+}
+
+div.categoryPictureInProductPageDiv {
+	width: 100%;
+	margin: 10px auto;
+	text-align: center;
+}
+
+div.reviewStasticsDiv {
+	margin-top: 20px;
+}
+
+div.registerErrorMessageDiv {
+	width: 600px;
+	margin: 0px auto;
+	height: 50px;
+	visibility: hidden;
+}
+
+td.orderItemProductInfoPartTD {
+	border-bottom: solid 1px #ECECEC;
+}
+
+td.orderItemOrderInfoPartTD {
+	border: solid 1px #ECECEC;
+}
+
+div.reviewDate {
+	width: 100px;
+}
+
+div.reviewDivlistReviewsEach div {
+	display: inline-block;
+}
+
+div.reviewDate {
+	color: #CCCCDD;
+}
+
+div.reviewContent {
+	color: #333333;
+	width: 698px;
+}
+
+div.reviewUserInfo {
+	color: #333333;
+}
+
+div.reviewDivlistReviewsEach {
+	padding: 20px;
+	border-bottom: 1px solid #ECECEC;
+}
+
+span.reviewUserInfoAnonymous {
+	color: #CCCCDD;
+	margin-left: 5px;
+}
+
+a.productLink {
+	height: 34px;
+}
+
+img.carouselImage {
+	height: 510px !important;
+}
+
+div.noMatch {
+	font-size: 20px;
+	width: 200px;
+	margin: 100px auto;
+	color: #888;
+}
+
+table.cartProductTable th.operation{
+	width:80px;
+}
+table.cartProductTable th.selectAndImage{
+	width:150px;
+}
