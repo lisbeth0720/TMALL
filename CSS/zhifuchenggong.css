@@ -1,0 +1,74 @@
+div.payedDiv {
+    border: 1px solid #D4D4D4;
+    max-width: 1013px;
+    margin: 10px auto 20px auto;
+}
+ 
+div.payedTextDiv {
+    height: 61px;
+    background-color: #ECFFDC;
+    padding: 17px 0px 0px 25px;
+}
+ 
+div.payedTextDiv span {
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 10px;
+}
+ 
+div.payedAddressInfo {
+    padding: 26px 35px;
+}
+ 
+div.payedAddressInfo li {
+    background-image: url(img/site/li_dot.png);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-attachment: scroll;
+    background-position: 0px 13px;
+    list-style-type: none;
+    color: #333333;
+    padding-left: 15px;
+    padding-top: 5px;
+     
+}
+ 
+span.payedInfoPrice {
+    color: #B10000;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: arial;
+}
+ 
+a.payedCheckLink {
+    color: #2D8CBA;
+}
+ 
+a.payedCheckLink:hover {
+    color: #2D8CBA;
+    text-decoration: underline;
+}
+ 
+div.paedCheckLinkDiv {
+    margin-left: 38px;
+}
+ 
+div.payedSeperateLine {
+    border-top: 1px dotted #D4D4D4;
+    margin: 0px 31px;
+}
+ 
+div.warningDiv {
+    margin: 23px 45px;
+}
+ 
+div.warningDiv {
+    color: black;
+}
+ 
+div.cartDiv {
+    max-width: 1013px;
+    margin: 10px auto;
+    color: black;
+}
+ 
