@@ -1,0 +1,64 @@
+div.registerDiv {
+    margin: 10px 20px;
+    text-align: center;
+}
+ 
+table.registerTable {
+    color: #3C3C3C;
+    font-size: 16px;
+    table-layout: fixed;
+    margin-top: 50px;
+}
+ 
+table.registerTable td {
+     
+    padding: 10px 30px;
+}
+ 
+td.registerTableLeftTD {
+    width: 300px;
+    text-align: right;
+}
+ 
+td.registerTableRightTD {
+    width: 300px;
+    text-align: left;
+}
+ 
+td.registerTip {
+    font-weight: bold;
+}
+ 
+table.registerTable input {
+    border: 1px solid #DEDEDE;
+    width: 213px;
+    height: 36px;
+    font-size: 14px;
+}
+ 
+td.registerButtonTD {
+    text-align: center;
+}
+ 
+table.registerTable button {
+    width: 170px;
+    height: 36px;
+    border-radius: 2px;
+    color: white;
+    background-color: #C40000;
+    border-width: 0px;
+}
+ 
+table.registerTable {
+     
+}
+ 
+div.registerSuccessDiv {
+    margin: 10px 20px;
+    background-color: #F3FDF6;
+    border: 1px solid #DEF3E6;
+    font-size: 16px;
+    color: #3C3C3C;
+    padding: 20px 130px;
+}
+ 
